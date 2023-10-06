@@ -1712,10 +1712,6 @@ select {
     display: none;
   }
 
-  .lg\:h-72 {
-    height: 18rem;
-  }
-
   .lg\:h-80 {
     height: 20rem;
   }
