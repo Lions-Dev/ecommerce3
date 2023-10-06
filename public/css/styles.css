@@ -880,14 +880,14 @@ select {
 .h-5 {
   height: 1.25rem;
 }
-.h-5\/6 {
-  height: 83.333333%;
-}
 .h-6 {
   height: 1.5rem;
 }
 .h-8 {
   height: 2rem;
+}
+.h-96 {
+  height: 24rem;
 }
 .h-\[10rem\] {
   height: 10rem;
@@ -1710,6 +1710,14 @@ select {
 
   .lg\:hidden {
     display: none;
+  }
+
+  .lg\:h-72 {
+    height: 18rem;
+  }
+
+  .lg\:h-80 {
+    height: 20rem;
   }
 
   .lg\:max-h-screen {
